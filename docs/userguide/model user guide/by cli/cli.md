@@ -1,11 +1,3 @@
----
-title: Starwhale Model User Guide
----
-
-A Starwhale Model is a standard format for packaging machine learning models that can be used for various purposes, like model finetuning, model evaluation, and online serving. A Starwhale Model contains the model file, inference codes, configuration files, and any other files required to run the model.
-
-For more information about the packaging format, see [the storage format](#format).
-
 ## Create a Starwhale Model
 
 There are two ways to create a Starwhale Model: by [SWCLI](../reference/swcli/model.md) or by SDK.
@@ -20,11 +12,7 @@ swcli model build <path to your model.yaml directory>
 
 For more information about the command and model.yaml, see [the SWCLI reference](../reference/swcli/model.md#build)
 
-### Create a Starwhale Model by SDK
-
 ## Model Management
-
-### Model Management by SWCLI
 
 | Command | Description |
 | ------- | ----------- |
@@ -33,15 +21,10 @@ For more information about the command and model.yaml, see [the SWCLI reference]
 | [`swcli model copy`](../reference/swcli/model.md#copy) | Copy a Starwhale Model to another location |
 | [`swcli model remove`](../reference/swcli/model.md#remove) | Remove a Starwhale Model |
 | [`swcli model recover`](../reference/swcli/model.md#recover) | Recover a previously removed Starwhale Model |
-
-### Model Management by WebUI
-
   
 ## Model History
 
 Starwhale Models are versioned. The general rules about versions are described in [Resource versioning in Starwhale](../concepts/versioning.md).
-
-### Model History Management by SWCLI
 
 | Command | Description |
 | ------- | ----------- |
@@ -50,17 +33,8 @@ Starwhale Models are versioned. The general rules about versions are described i
 | [`swcli model diff`](../reference/swcli/model.md#diff) | Compare two versions of a Starwhale model |
 | [`swcli model copy`](../reference/swcli/model.md#copy) | Copy a Starwhale Model version to a new one |
 
-### Model History Management by WebUI
-
-- 
 ## Model Evaluation
-
-### Model Evaluation by SWCLI
 
 | Command | Description |
 | ------- | ----------- |
 | [`swcli model eval`](../reference/swcli/model.md#eval) | Create an evaluation with a Starwhale Model |
-
-## The Storage Format {#format}
-
-The Starwhale Model is a tarball file that contains the source directory.
