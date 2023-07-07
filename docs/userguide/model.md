@@ -77,7 +77,7 @@ For more information about the command and model.yaml, see [the SWCLI reference]
   Click **Remove** to remove the model to trash.  
 
   :::danger
-  
+
   If you confirm to delete, all versions of a model will be deleted and will not be recovered any more.
   
   :::
