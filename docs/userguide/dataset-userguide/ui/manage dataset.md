@@ -2,13 +2,13 @@
 title: Manage a Starwhale Dataset by UI
 ---
 
-## Starwhale Dataset list
+## Starwhale Dataset list {#list}
 
 Starwhale dataset list displays the basic dataset information: Dataset name, the latest dataset version alias, dataset owner, the created time and dataset actions.
 
 ![image](https://user-images.githubusercontent.com/101299635/234795143-2987043e-9dd2-4b73-8ff9-73b83762356e.png)
 
-## Starwhale Dataset Detail Information
+## Starwhale Dataset Detail Information {#info}
 
 Dataset version information consists of three parts: Overview, metadata, and files.
 
@@ -39,7 +39,7 @@ Supporting viewing data like videos, images, audio, texts, and annotations.
 | Audios | MP3, wav | Classification |
 | Texts | txt | Classification |
 
-## Starwhale Dataset Visualization
+## Starwhale Dataset Visualization {#visualize}
 
 ### Image data viewer
 
@@ -93,13 +93,13 @@ Text data visualization support viewing text data in tables(default) or a larger
 
 ![image](https://user-images.githubusercontent.com/101299635/234797034-84f2c866-a06a-4552-a292-966d9e8522d5.png)
 
-## Share a Starwhale Dataset 
+## Share a Starwhale Dataset {#share}
 
 Easily switch between shared and unshared modes for dataset versions by clicking the designated button. If the dataset is part of a public project, a shared dataset can be accessed and utilized by all users. For more information, see [Roles and permissions](https://doc.starwhale.ai/docs/concepts/roles-permissions)
 
 ![image](https://user-images.githubusercontent.com/101299635/234837932-18a7270f-a1c5-48f6-8aec-5f58458d357c.png)
 
-## Remove a Starwhale Dataset
+## Remove a Starwhale Dataset {#remove}
 
 Click **Remove** first, then click **Yes** to confirm or click **No** to cancel.
 
@@ -111,7 +111,7 @@ If you confirm to remove, all versions of a dataset will be removed.
 
 ![image](https://github.com/lijing-susan/docs/assets/101299635/eb306408-e0e1-4a76-8bde-37dc49e9b0ff)
 
-## Recover a preciously removed Starwhale Dataset
+## Recover a preciously removed Starwhale Dataset {#recover}
 
 You can go to **Trash** to find the dataset you want to recover, then click **Restore** to recover your datasets. And then, click **Yes** to confirm or click **No** to cancel.
 
