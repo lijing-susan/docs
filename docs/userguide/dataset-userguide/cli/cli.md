@@ -2,7 +2,7 @@
 CLI User Guide of Starwhale Dataset 
 ---
 
-Starwhale Dataset is a unified description of how the data and labels are stored and organized. Datasets are the most commonly used data in algorithm research, Starwhale Dataset can be easily accessed for Natural Language Processiong (NLP),Computer Vision, Audio and Radio tasks.
+Starwhale Dataset is a unified description of how the data and labels are stored and organized. Datasets are the most commonly used data in algorithm research. Starwhale Dataset can be easily accessed for Natural Language Processing (NLP), Computer Vision, Audio and Radio tasks.
 
 ## Create a Starwhale Dataset(更新create相关命令链接)
 
