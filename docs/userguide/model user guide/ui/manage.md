@@ -36,7 +36,7 @@
 
 - **Delete a Model**
 
-  Click **Delete** to remove the model to trash.  
+  Click **Delete** to delete a model.  
 
   :::danger
 
