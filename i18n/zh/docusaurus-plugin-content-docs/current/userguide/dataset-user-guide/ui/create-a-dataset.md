@@ -8,9 +8,9 @@ title:构建数据集
 
 ![image](https://github.com/lijing-susan/docs/assets/101299635/c1ca9ece-816a-4b22-9ee4-e2cf7cae1783)
 
-- 输入数据集名称，
-- 将文件拖拽到指定位置，或者点击选取文件
-- 等待文件上传，会显示上传文件数量和所有文件大小，文件上传完成后可点击**提交**
+- 输入数据集名称；
+- 将文件拖拽到指定位置，或者点击选取文件；
+- 等待文件上传，会显示上传文件数量和所有文件大小，文件上传完成后可点击**提交**。
 
 ![image](https://github.com/lijing-susan/docs/assets/101299635/dd5f8d58-3b32-4cee-a8af-546e9fe091ec)
 
