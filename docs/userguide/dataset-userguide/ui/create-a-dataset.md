@@ -23,6 +23,6 @@ Click the **Floating window** on the bottom right corner to see the building job
 
 All of your building jobs display on the lists. Click the **View Log** button can check the job logs.
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/create/20230728-114132.jpg)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/create/building%20job.jpg)
 
 The built datasets display on the dataset list. For more information about how to manage a dataset, click [Dataset Management](https://github.com/lijing-susan/docs/blob/susan-docs-userguide/i18n/zh/docusaurus-plugin-content-docs/current/userguide/dataset-user-guide/ui/manage-dataset.md)
