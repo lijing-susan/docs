@@ -7,6 +7,7 @@ You can upload and build datasets from UI.
 Go to the dataset list page, and click the **Create** button at the top right corner.
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/create/create1.png)
+
 - Type dataset name;
 - Drag the directories or files to the box or click the box to choose files;
 - Waiting for the files to upload. When finished, click the **Submit** button to build the dataset.
