@@ -8,12 +8,11 @@ Starwhale数据集版本管理可以协助您对数据集的版本进行管理�
 
 1 在数据集列表页，点击**历史版本**按钮可查看该数据集的全部历史版本。
 
-
-![image](https://user-images.githubusercontent.com/101299635/234795306-7311c641-ca31-44ae-9c59-a3a66433285a.png)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/history%20version/list1.png)
 
 2 数据集版本列表页展示了数据集版本的基本信息，包含：版本名称、版本别名，版本是否共享和版本的创建时间等。
 
-![image](https://user-images.githubusercontent.com/101299635/234825710-37a13e18-7df1-471c-b339-445f49435c91.png)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/history%20version/hslist.png)
 
 :::catution
 如果您共享了数据集的某个版本，该数据集版本对所有人可见。如果尚未共享，则只对有权限的用户可见。
@@ -29,7 +28,7 @@ Starwhale数据集版本管理可以协助您对数据集的版本进行管理�
 如果您共享了数据集的某个版本，该数据集版本对所有人可见。如果尚未共享，则只对有权限的用户可见。
 :::
 
-![image](https://user-images.githubusercontent.com/101299635/234837932-18a7270f-a1c5-48f6-8aec-5f58458d357c.png)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/history%20version/share.png)
 
 如果您想共享数据集的所有版本，需要您单独对每个版本进行共享操作。
 
@@ -37,8 +36,8 @@ Starwhale数据集版本管理可以协助您对数据集的版本进行管理�
 
 1 在CLI输入命令 `sw assistance wait-console` 
 
-![image](https://github.com/lijing-susan/docs/assets/101299635/63364c6c-92c7-4f1d-bd1d-216a19acb228)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/history%20version/push%20to%20local.png)
 
 2 点击**下载到本地**按钮就能将数据集指定版本下载到本地了。
 
-![image](https://github.com/lijing-susan/docs/assets/101299635/0fb349ee-e275-4f20-98a8-d6924320c47b)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/history%20version/push%20conslole.png)
