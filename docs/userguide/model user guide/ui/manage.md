@@ -36,7 +36,7 @@
 
 - **Delete a Model**
 
-  Click **Delete** to delete a model.  
+  You can go to **Trash**, search for the model you want to delete, Click **Delete** to delete a model, then click **Yes** to confirm or **No** to cancel. 
 
   :::danger
 
