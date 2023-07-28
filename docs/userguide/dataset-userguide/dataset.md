@@ -20,7 +20,7 @@ import TabItem from '@theme/TabItem';
     | [`swcli dataset build --json-file /path/to/example.json`](../reference/swcli/dataset#overview) | Create a Starwhale Dataset from json file |
   </TabItem>
   <TabItem value="ui" label="UI">
-    开发完成后补充.
+    【待补充.】
   </TabItem>
 </Tabs>
 
