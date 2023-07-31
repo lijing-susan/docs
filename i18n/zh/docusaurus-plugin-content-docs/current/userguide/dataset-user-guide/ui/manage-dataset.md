@@ -1,5 +1,5 @@
 ---
-title:数据集管理
+title: 数据集管理
 ---
 
 ## 查看全部数据集
@@ -51,7 +51,7 @@ title:数据集管理
 
 **大图模式**
 
-  ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/manage/image%20viewer%20full.png)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/manage/image%20viewer%20full.png)
   
 大图左侧显示标注信息和元数据
 
