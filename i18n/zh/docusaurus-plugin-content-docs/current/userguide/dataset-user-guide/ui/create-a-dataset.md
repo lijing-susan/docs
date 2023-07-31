@@ -4,7 +4,7 @@ title: 数据集构建
 
 您可以通过UI上传和构建数据集
 
-进入数据集列表页，点击右上角**创建**数据集按钮
+1 进入数据集列表页，点击右上角**创建**数据集按钮
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/create/create1.png)
 
@@ -18,11 +18,11 @@ title: 数据集构建
 点击**重置**将会清空已上传图片
 :::
 
-提交完成后，数据集构建任务将收于页面右下角浮窗，点击浮窗可全屏查看任务。
+2 提交完成后，数据集构建任务将收于页面右下角浮窗，点击浮窗可全屏查看任务。
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/create/floating%20window.png)
 
-如有多个构建任务，列表页会展示多个任务。点击**查看日志**，可查看日志
+3 如有多个构建任务，列表页会展示多个任务。点击**查看日志**，可查看日志
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/Dataset/create/building%20job.jpg)
 
