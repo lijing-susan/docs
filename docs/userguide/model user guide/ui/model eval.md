@@ -35,7 +35,7 @@ Each time you run an evaluation with Starwhale Web UI, Starwhale Client or Pytho
   
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/model/model%20eval/compare.jpg)
 
-2 The pined evaluation is the base evaluation. If you want to change the base evaluation, pin another evaluation.
+2 The pinned evaluation is the base evaluation. If you want to change the base evaluation, pin another evaluation.
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/model/model%20eval/pin.jpg)
 
