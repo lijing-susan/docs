@@ -135,12 +135,12 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ## 移除报告
 
-在报告列表页，点击 **移除** 按钮可将报告移除至回收站。了解更多操作权限详情，请参考【XXXX】
+在报告列表页，点击 **移除** 按钮可将报告移除至回收站。了解更多操作权限详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
 
 【列表页去掉preview后截图】
 
 ## 恢复报告
 
-点击左侧导航栏 **回收站** 图表，进入回收站列表，点击 **恢复**即可。了解更多操作权详情，请参考【xxxx】
+点击左侧导航栏 **回收站** 图表，进入回收站列表，点击 **恢复**即可。了解更多操作权详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
 
 【列表页去掉preview后截图】
