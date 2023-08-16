@@ -13,7 +13,9 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 点击报告列表页右上角 **创建** 按钮，即可新建报告
 
-【新建报告截图】
+[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20button.jpg)
+
+[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20report.jpg)
 
 ## 编辑与编排
 
@@ -23,13 +25,15 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 在报告任意空白行输入** /** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，显示工具栏菜单，然后插入“块”。
 
-【补截图】
+[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/toolbar.jpg)
 
 ### 拆入文本
 
 - 快速插入
 
   在报告任意空白行输入 **/** ，或正文任意位置输入空格 / 即可触发 **快速插入**，在工具栏中选择 **文本** 即可
+
+  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
 
 - 工具栏
 
@@ -43,7 +47,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中菜单中选择 **标题级别** 即可
 
-  【？】 您也可以在触发 **快速插入** 后，直接输入 标题级别并选择，然后创建一个对应级别的标题
+  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/heading.jpg)
 
 - + 工具栏
 
@@ -59,7 +63,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 / ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **有序列表** 或 **无序列表** 即可
 
-  【？】 您也可以在触发 **快速插入** 后，直接输入 标题级别并选择，然后创建一个对应级别的标题
+  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/number%20and%20bullet%20list.jpg)
 
 - + 工具栏
 
@@ -73,7 +77,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **代码块** 即可
 
-  【？】 您也可以在触发 **快速插入** 后，直接输入 **代码块** 并选择，完成 **代码块** 的插入
+ [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/code.jpg)
 
 - + 工具栏
 
@@ -93,7 +97,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **引用** 即可
 
-  【？】 您也可以在触发 **快速插入** 后，直接输入 **quote、yinyong** 并选择，完成 **引用** 的插入
+  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/quote.jpg)
 
 - + 工具栏
 
@@ -105,17 +109,17 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 - 快速插入
 
-  在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **引用** 即可
+  在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **面板** 即可
 
-  【？】 您也可以在触发 **快速插入** 后，直接输入 **quote、yinyong** 并选择，完成 **引用** 的插入
+  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
 
 - + 工具栏
 
-  将鼠标悬浮在报告左侧的 + 工具栏上，然后选择 **引用** 即可创建一行引用。
+  将鼠标悬浮在报告左侧的 + 工具栏上，然后选择 **面板** 即可创建一行引用。
   
 **2.添加数据**
 
-点击右侧 **添加表格** 按钮，勾选想展示的评测数据，点击**提交**。支持跨项目选择评测数据，可在选择项目菜单切换项目。
+点击右侧 **添加评测** 按钮，勾选想展示的评测数据，点击**添加**。支持跨项目选择评测数据，可在选择项目菜单切换项目。
 
 **3.添加图表**
 
@@ -125,10 +129,18 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ## 分享及权限
 
+点击 **分享**开关，可将报告
+
+【列表页去掉preview后截图】
+
 ## 移除报告
 
 在报告列表页，点击 **移除** 按钮可将报告移除至回收站。了解更多操作权限详情，请参考【XXXX】
 
+【列表页去掉preview后截图】
+
 ## 恢复报告
 
 点击左侧导航栏 **回收站** 图表，进入回收站列表，点击 **恢复**即可。了解更多操作权详情，请参考【xxxx】
+
+【列表页去掉preview后截图】
