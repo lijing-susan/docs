@@ -13,9 +13,9 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 点击报告列表页右上角 **创建** 按钮，即可新建报告
 
-[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20button.jpg)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20button.jpg)
 
-[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20report.jpg)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20report.jpg)
 
 ## 编辑与编排
 
@@ -25,7 +25,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 在报告任意空白行输入** /** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，显示工具栏菜单，然后插入“块”。
 
-[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/toolbar.jpg)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/toolbar.jpg)
 
 ### 拆入文本
 
@@ -33,7 +33,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入空格 / 即可触发 **快速插入**，在工具栏中选择 **文本** 即可
 
-  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
+  ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
 
 - 工具栏
 
@@ -47,7 +47,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中菜单中选择 **标题级别** 即可
 
-  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/heading.jpg)
+  ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/heading.jpg)
 
 - + 工具栏
 
@@ -63,7 +63,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 / ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **有序列表** 或 **无序列表** 即可
 
-  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/number%20and%20bullet%20list.jpg)
+  1[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/number%20and%20bullet%20list.jpg)
 
 - + 工具栏
 
@@ -77,7 +77,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **代码块** 即可
 
- [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/code.jpg)
+ ！[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/code.jpg)
 
 - + 工具栏
 
@@ -97,7 +97,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **引用** 即可
 
-  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/quote.jpg)
+  ！[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/quote.jpg)
 
 - + 工具栏
 
@@ -111,7 +111,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
   在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **面板** 即可
 
-  [image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
+  ！[image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
 
 - + 工具栏
 
