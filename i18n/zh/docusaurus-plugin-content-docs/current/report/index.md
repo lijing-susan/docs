@@ -9,13 +9,13 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 点击左侧导航栏 **报告** 图标，即可进入报告列表页查看该项目下的
 
-【列表页截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/list.jpg)
 
 ### 查看报告详情
 
 点击 **报告标题** 或者 操作列 **预览**，即可查看报告详情。
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/view.jpg)
 
 ## 报告创建
 
@@ -83,11 +83,25 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ### 插入面板
 
-**1.插入面板**
+**1.编辑面板**
+
+- 插入面板
 
 在报告任意空白行输入 **/** ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中选择 **面板** 即可
 
-  ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
+
+- 重命名面板
+
+点击 **设置** > **重命名**，输入名称
+
+【截图】
+
+- 删除面板
+
+点击 **删除**，点击确认弹窗中 **是的** 按钮， 即可将选中的面板删除
+
+【截图】
   
 **2.添加数据**
 
@@ -95,13 +109,13 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 点击右侧 **添加评测** 按钮，勾选想展示的评测数据，点击 **添加**。支持跨项目选择评测数据，可在选择项目菜单切换项目。
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/add_eval.jpg)
 
 - 移除评测数据
 
 点击 **移除** 按钮，即可将已选评测数据移除。
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/remove.jpg)
 
 - 字段设置
 
@@ -113,7 +127,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 - 添加图表
 
-如想将数据以图表的方式展现，点击右侧 **添加图表** 按钮，选择图表类型，数据表，X轴和Y轴展示的数据，图表名称，点击提交。
+如想将数据以图表的方式展现，点击右侧 **添加图表** 按钮，选择图表类型，数据表，X轴和Y轴展示的数据，图表名称，点击 **提交**。
 
 注：表格和图表存在联动关系，通过表格选取的数据范围就是图表可以选择的最大数据范围。
 
@@ -124,6 +138,14 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 鼠标hover在图表右下角，通过拖拽可编辑图表大小
 
 【截图】
+
+- 编辑图表
+
+点击 **设置** > **编辑图表**，即可对图表类型、数据表、图表名称等进行编辑，点击 **提交** 保存编辑内容
+
+- 删除图表
+
+点击 **设置** > **删除**，点击确认弹窗里的 **是的** 按钮，即可将图表删除
 
 ## 分享及权限
 
