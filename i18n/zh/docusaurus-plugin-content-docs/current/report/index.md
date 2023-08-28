@@ -13,7 +13,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ### 查看报告详情
 
-点击**报告标题** 或者 操作列**预览**，即可查看报告详情。
+点击 **报告标题** 或者 操作列 **预览**，即可查看报告详情。
 
 【截图】
 
@@ -39,13 +39,13 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 在报告任意空白行输入 **/** ，或正文任意位置输入空格 / 即可触发 **快速插入**，在工具栏中选择 **文本** 即可
 
-  ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
 
 ### 插入目录
 
 **插入目录**
 
-在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中菜单中选择 **标题级别** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中菜单中选择 **标题级别** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/heading.jpg)
 
@@ -55,7 +55,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ### 有序列表和无序列表
 
-在报告任意空白行输入 / ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **有序列表** 或 **无序列表** 即可
+在报告任意空白行输入 / ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中选择 **有序列表** 或 **无序列表** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/number%20and%20bullet%20list.jpg)
 
@@ -63,7 +63,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 **插入代码块**
 
-在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **代码块** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中选择 **代码块** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/code.jpg)
 
@@ -85,7 +85,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 **1.插入面板**
 
-在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **面板** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中选择 **面板** 即可
 
   ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
   
@@ -93,13 +93,13 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 - 添加评测数据
 
-点击右侧 **添加评测** 按钮，勾选想展示的评测数据，点击**添加**。支持跨项目选择评测数据，可在选择项目菜单切换项目。
+点击右侧 **添加评测** 按钮，勾选想展示的评测数据，点击 **添加**。支持跨项目选择评测数据，可在选择项目菜单切换项目。
 
 【截图】
 
 - 移除评测数据
 
-点击**移除**按钮，即可将已选评测数据移除。
+点击 **移除** 按钮，即可将已选评测数据移除。
 
 【截图】
 
@@ -129,16 +129,16 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 点击 **分享**开关，可将报告
 
-【列表页去掉preview后截图】
+【截图】
 
 ## 移除报告
 
 在报告列表页，点击 **移除** 按钮可将报告移除至回收站。了解更多操作权限详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
 
-【列表页去掉preview后截图】
+【截图】
 
 ## 恢复报告
 
 点击左侧导航栏 **回收站** 图表，进入回收站列表，点击 **恢复**即可。了解更多操作权详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
 
-【列表页去掉preview后截图】
+【截图】
