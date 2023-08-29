@@ -7,7 +7,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ### 查看报告列表
 
-点击左侧导航栏 **报告** 图标，即可进入报告列表页查看该项目下的
+点击左侧导航栏 **报告** 图标，即可进入报告列表页查看该项目下的所有报告
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/list.jpg)
 
@@ -93,16 +93,20 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 - 重命名面板
 
-点击 **设置** > **重命名**，输入名称
+点击 **设置** > **重命名**，输入新的名称，点击提交
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_rename.jpg)
+
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_rename1.jpg)
 
 - 删除面板
 
 点击 **删除**，点击确认弹窗中 **是的** 按钮， 即可将选中的面板删除
 
-【截图】
-  
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_delete.jpg)
+
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_delete_confirm.jpg)
+
 **2.添加数据**
 
 - 添加评测数据
@@ -121,7 +125,9 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 点击 **设置**，可设置面板评测列表里的展示的字段，可见字段为展示在评测列表里的字段。
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/column_set.jpg)
+
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/column.jpg)
 
 **3.添加图表**
 
@@ -131,36 +137,56 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 注：表格和图表存在联动关系，通过表格选取的数据范围就是图表可以选择的最大数据范围。
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/add%20chart.jpg)
 
 - 编辑图表大小
 
 鼠标hover在图表右下角，通过拖拽可编辑图表大小
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/drag_and_strench.jpg)
 
 - 编辑图表
 
 点击 **设置** > **编辑图表**，即可对图表类型、数据表、图表名称等进行编辑，点击 **提交** 保存编辑内容
 
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/chart_edit.jpg)
+
 - 删除图表
 
 点击 **设置** > **删除**，点击确认弹窗里的 **是的** 按钮，即可将图表删除
 
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/chart_delete.jpg)
+
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/chart_delete_confirm.jpg)
+
+## 报告发布
+
+点击报告右上角 **发布到项目** 按钮，即可将编辑的最新内容发布出来
+
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/report_publish.jpg)
+
+:::
+caution: 报告中的已保存仅将编辑内容暂存至本地，如不发布到项目，内容可能会丢失。
+:::
+
 ## 分享及权限
 
-点击 **分享**开关，可将报告
+点击 **分享**开关，可将报告分享给所有人，报告对所有获得报告URL的人可见
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/share.jpg)
 
 ## 移除报告
 
-在报告列表页，点击 **移除** 按钮可将报告移除至回收站。了解更多操作权限详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
+在报告列表页，点击 **移除** 按钮，然后点击确认弹窗里的 **是的** 按钮，可将报告移除至回收站。了解更多操作权限详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/remove.jpg)
+
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/report_remove_confirm.jpg)
 
 ## 恢复报告
 
-点击左侧导航栏 **回收站** 图表，进入回收站列表，点击 **恢复**即可。了解更多操作权详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
+点击左侧导航栏 **回收站** 图表，进入回收站列表，点击 **恢复**，然后点击确认弹窗里的 **是的** 按钮，即可恢复报告。了解更多操作权详情，请参考[Starwhale的角色和权限](https://starwhale.cn/docs/concepts/roles-permissions)
 
-【截图】
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/restore.jpg)
+
+![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/restore_confirm.jpg)
