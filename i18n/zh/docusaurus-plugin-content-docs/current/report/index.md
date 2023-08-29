@@ -31,13 +31,13 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 在报告中可以插入“块”，一边编辑和编排出一篇您满意的报告。
 
-在报告任意空白行输入** /** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，显示工具栏菜单，然后插入“块”。
+在报告任意空白行输入 **/** ，或正文任意位置输入 **/** 即可触发 **快速插入**，显示工具栏菜单，然后插入“块”。
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/toolbar.jpg)
 
 ### 拆入文本
 
-在报告任意空白行输入 **/** ，或正文任意位置输入空格 / 即可触发 **快速插入**，在工具栏中选择 **文本** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **/** 即可触发 **快速插入**，在工具栏中选择 **文本** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
 
@@ -45,7 +45,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 **插入目录**
 
-在报告任意空白行输入 **/** ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中菜单中选择 **标题级别** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **/** 即可触发 **快速插入**，在工具栏中菜单中选择 **标题级别** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/heading.jpg)
 
@@ -55,7 +55,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ### 有序列表和无序列表
 
-在报告任意空白行输入 / ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中选择 **有序列表** 或 **无序列表** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **/** 即可触发 **快速插入**，在工具栏中选择 **有序列表** 或 **无序列表** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/number%20and%20bullet%20list.jpg)
 
@@ -63,7 +63,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 **插入代码块**
 
-在报告任意空白行输入 **/** ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中选择 **代码块** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **/** 即可触发 **快速插入**，在工具栏中选择 **代码块** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/code.jpg)
 
@@ -77,7 +77,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 ### 在报告中使用引用
 
-在报告任意空白行输入 **/** ，或正文任意位置输入**空格 /** 即可触发 **快速插入**，在工具栏中选择 **引用** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **/** 即可触发 **快速插入**，在工具栏中选择 **引用** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/quote.jpg)
 
@@ -87,7 +87,7 @@ Starwhale的报告是一个富文本编辑器，支持您将模型评测的结�
 
 - 插入面板
 
-在报告任意空白行输入 **/** ，或正文任意位置输入 **空格 /** 即可触发 **快速插入**，在工具栏中选择 **面板** 即可
+在报告任意空白行输入 **/** ，或正文任意位置输入 **/** 即可触发 **快速插入**，在工具栏中选择 **面板** 即可
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
 
