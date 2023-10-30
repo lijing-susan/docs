@@ -29,8 +29,6 @@ Type **/** into a blank line in a report or an appropriate location in the main 
 
 Type **/** into a blank line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Text** from the toolbar menu.
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
-
 ### Inserting a Table of Content
 
 **Inserting a Table of Content**: Type **/** into a blank line in the report or an appropriate location of the text, and trigger the **Quick Insert** by pressing ** / **. Then select **Title Level** from the toolbar menu to insert it.
