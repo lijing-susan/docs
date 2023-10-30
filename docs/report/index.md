@@ -1,29 +1,21 @@
 ---
 title: Report Management
 ---
-Starwhale's Report is a rich text editor that allows you to present the model evaluation results in document form and share reports.
+Starwhale's Report is a rich text editor that allows you to present the model evaluation results in document form and share the reports.
 
 ## View a Report
 
-### Reports list
+### View Reports list
 
-Click the **Report** icon in the left navigation bar to access the report list page and view all reports of the project.
+Click the **Report** icon on the left navigation bar to enter the report list page and view all reports under the project.
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/list.jpg)
+### View Report details
 
-### Report details
-
-Click the **Report title** or **Preview** to view the details of the report.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/view.jpg)
+Click the **Report title** or **Preview** to view the report's details.
 
 ## Create a Report
 
-Click the **Create** button on the top right of the report list page to create a new report
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20button.jpg)
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/create%20report.jpg)
+Click the **Create** button on the top right of the report list page to create a new report.
 
 ## Editing and Layout
 
@@ -31,160 +23,94 @@ In Starwhale's Report, we use "blocks" to refer to structured elements. Each typ
 
 You can insert "blocks" while editing a report to create a satisfactory report.
 
-Type **/** into an empty line in a report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then, select the desired "block" from the toolbar menu.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/toolbar.jpg)
+Type **/** into a blank line in a report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then, select the desired "block" from the toolbar menu. 
 
 ### Inserting Text
 
-Type **/** into an empty line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Text** from the toolbar menu.
+Type **/** into a blank line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Text** from the toolbar menu.
 
 ![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/text.jpg)
 
-### Inserting a Table of Contents
+### Inserting a Table of Content
 
-**Inserting a Table of Contents**
+**Inserting a Table of Content**: Type **/** into a blank line in the report or an appropriate location of the text, and trigger the **Quick Insert** by pressing ** / **. Then select **Title Level** from the toolbar menu to insert it.
 
-Type **/** into an empty line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Title Level** from the toolbar menu.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/heading.jpg)
-
-Hover the mouse over the + toolbar on the left of the report and select **Title Level**. Then, enter content into the line to create a title.
-
-**Convert to a Table of Contents**
-
-Hover the mouse over a line of text and select the **Heading Level** from the T⋮⋮ toolbar on the left side of the report to convert this text into a heading.
+**Convert to a Table of Contents**: Hover the mouse over a line of text and select the **Heading Level** from the T⋮⋮ toolbar on the left side of the report to convert this text into a heading.
 
 ### Numbered List and Bullet List
 
-Type / into an empty line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Numbered List** or **Bullet List** from the toolbar menu.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/number%20and%20bullet%20list.jpg)
+Type / into an empty line in the report or an appropriate location of the text, and trigger the **Quick Insert** by pressing ** / **. Then select **Numbered List** or **Bullet List** from the toolbar menu.
 
 ### Inserting a Code Block
 
-**Inserting a Code Block**
+**Inserting a Code Block**: Type **/** into an empty line in the report or an appropriate location of the text, and trigger the **Quick Insert** by pressing ** / **. Then select **Code Block** from the toolbar menu.
 
-Type **/** into an empty line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Code Block** from the toolbar menu.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/code.jpg)
-
-**Converting to a Code Block**
-
-Hover over the text and select **Code Block** from the **T⋮⋮ toolbar** on the left of the report to convert this text into a code block.
+**Converting to a Code Block**: Hover over the text and select **Code Block** from the **T⋮⋮ toolbar** on the left of the report to convert this text into a code block.
 
 ### Using Quotes in Reports
 
-Type **/** into an empty line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Quote** from the toolbar menu.
+Type **/** into a blank line in the report or an appropriate location of  text, and trigger the **Quick Insert** by pressing ** / **. Then select **Quote** from the toolbar menu.
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/quote.jpg)
+### Insert a Panel and Evaluation Data
 
-### Inserting a Panel
+Here are the main steps for inserting panels and evaluation data
 
-**1. Edit a Panel**
+1. Insert and edit a panel
+2. Add and edit evaluation data
+3. Add and edit charts
 
-- Insert a panel
+#### Insert and Edit Panel
 
-Type **/** into an empty line in the report or an appropriate location in the main text, and trigger the **Quick Insert** by pressing ** / **. Then select **Panel** from the toolbar menu.
+**Insert a panel**: Type **/** in a blank line of the report or a location of the text, and you can trigger "Quick Insertion". Select **Panel** from the toolbar menu to insert it. 
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel.jpg)
+**Rename a panel**: Click the **Settings** button on the top right corner of the panel, select **Rename** from the drop-down menu, enter a new name from the pop-up window, and click the **Submit** button.
 
-- Rename a panel
+**Delete a panel**: Click the **Settings** button on the top right corner of the panel, select **Delete** from the drop-down menu, and then click the **Yes** button on the pop-up window to delete the selected panel. 
 
-Click **Settings** > **Rename**, type a new name, and click the **Submit** button.
+#### Add Evaluation Data
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_rename.jpg)
+**Add evaluation**: Click the **Add Evaluation** button on the right side of the evaluation list, select the data you want to display and click the **Add** button. It supports selecting evaluation data across projects by switching projects in the selection menu.
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_rename1.jpg)
+**Remove an evaluation**: Click the **Remove** button before the added evaluation to remove selected evaluation data.
 
-- Delete a panel
+**Columns setting**: Click the **Column Management** button on the right side of the evaluation list to set the columns's visibility in the evaluation table. You can define which columns should be displayed/hidden, adjust their display order (by dragging), and fix certain columns.
 
-Click **Delete**, then click the **Yes** button in the pop-up window to confirm so as to delete the selected panel.
+#### Add Charts
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_delete.jpg)
+**Add a chart**: Click the **Add Chart** button on the right side of the evaluation list, and then select the chart type, data table, and data displayed on X-Axis and Y-Axis, enter the chart name, and click the **Submit** button to add the chart.
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/panel_delete_confirm.jpg)
+Note: There is an association between the evaluation table list and charts. The data range selected from the evaluation list is the maximum data range that can be selected for the chart.
 
-**2. Add Evaluation Data**
+**Change the size of a chart**: You can hover over the bottom right corner of the chart and drag to edit the chart size to what you like.
 
-- Add an evaluation
+**Edit a chart**:  Click the **Settings** button at the top right corner of a chart, and select the **Edit Chart** from the drop-down menu to edit the chart type, data, and chart name. Click **Submit** to save the edited content.
 
-Click the **Add Evaluation** button on the right, select the evaluation data you want to display and click **Add**. It supports selecting evaluation data across projects by switching projects in the project selection menu.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/add_eval.jpg)
-
-- Remove an evaluation
-
-Click the **Remove** button to remove the selected evaluation from the evaluation table.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/remove.jpg)
-
-- Columns setting
-
-Click **Settings** to set the visible columns in the evaluation table.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/column_set.jpg)
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/column.jpg)
-
-**3. Add Charts**
-
-- Add a chart
-
-Click the **Add Chart** button on the right, and select and enter the items.
-
-Note: There is an association between tables and charts. The data range selected from the table is the maximum data range that can be selected for the chart.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/add%20chart.jpg)
-
-- Change the size of the chart
-
-Hover over the bottom right corner of the chart and drag to edit the chart size to what you like.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/drag_and_strench.jpg)
-
-- Edit a chart
-
-Click the **Settings** > **Edit Chart** to edit the chart type, data, and chart name. Click **Submit** to save the edited content.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/chart_edit.jpg)
-
-- Delete a chart
-
-Click the **Settings** > **Delete**， then click the **Yes** button in the pop-up window to confirm so as to delete the chart.
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/chart_delete.jpg)
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/chart_delete_confirm.jpg)
+**Delete a chart**: Click the **Settings** button at the top right corner of a chart, and select the **Delete** from the drop-down menu, then click the **Yes** button in the pop-up window to delete the chart.
 
 ## Publish a Report
 
-Click the **Publish to Report** button on the top right of the report to publish the content of the report. 
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/report_publish.jpg)
+Click the **Publish to Report** button on the top right of the report to publish the latest edited content of the report. 
 
 :::
-caution: The "Saved" in the report means only temporarily stores the edited content locally. The content may be lost if it is not published to the project.
+caution: The edited content will automatically be saved locally, which means it only temporarily stores the edited content locally. The content may be lost if it is not published to the project.
 :::
 
 ## Sharing and Permissions
 
-Click the **Share** switch to share the report with anyone who gets the report link.
+Click the **Share** switch on the report list page to share the report with anyone who gets the report link. The report's URL will be automatically copied when you switch on the **Share** button.
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/share.jpg)
+## Preview a Report
 
-## Remove Report
+Click the "Preview" button on the report list page to preview the report.
+
+## Copy a Report Link
+
+Click the "Copy Link" button on the report list page to copy the report link.
+
+## Remove a Report
 
 Click the **Remove** button on the report list page to move the report to the recycle bin. For more information on operation permissions, please refer to [Starwhale's Roles and Permissions](https://starwhale.cn/docs/concepts/roles-permissions).
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/remove.jpg)
+## Restore a Report
 
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/report_remove_confirm.jpg)
-
-## Restore Report
-
-Click the **Recycle Bin** chart in the left navigation bar, enter the recycle bin list, and click **Restore**. For more information on operation permissions, please refer to [Starwhale's Roles and Permissions](https://starwhale.cn/docs/concepts/roles-permissions).
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/restore.jpg)
-
-![image](https://starwhale-examples.oss-cn-beijing.aliyuncs.com/docs/User%20guide/report/restore_confirm.jpg)
+Click the **Recycle Bin** icon on the left navigation bar to enter the recycle bin list. Click the **Restore** button and then the "Yes" button in the confirmation pop-up to restore the report. For more information on operation permissions, please refer to [Starwhale's Roles and Permissions](https://starwhale.cn/docs/concepts/roles-permissions).
